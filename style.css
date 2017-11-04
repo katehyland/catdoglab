@@ -1,0 +1,21 @@
+body {
+  background-image:url("http://www.powerpointhintergrund.com/uploads/light-pattern-background-15.jpeg");
+}
+h1 {
+  color: gold;
+  text-shadow: 2px 2px darkgoldenrod;
+}
+.center {
+  text-align: center;
+  font-family: 'Rozha One', serif;
+}
+
+.nav {
+  text-align: center;
+}
+a {
+  font-family: 'Rozha One', serif;
+}
+.dogs {
+  border-radius: 10px;
+}
